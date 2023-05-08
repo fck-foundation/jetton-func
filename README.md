@@ -4,4 +4,4 @@ Library for easily sending Jetton for [FunC language](https://docs.ton.org/devel
 
 ## Features
 
-- `jetton::send` - send Jetton without payload
+- `jetton::send` - send Jetton without forward payload
